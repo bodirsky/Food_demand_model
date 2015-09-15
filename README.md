@@ -16,8 +16,8 @@ You should have received a copy of the GNU General Public License
 and the GNU Lesser General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-* Contacts:
-Susanne Rolinski and Benjamin Leon Bodirsky
+Contacts:
+Susanne Rolinski and Benjamin Leon Bodirsky.
 Potsdam Institute for Climate Impact Research
 P.O. Box 60 12 03
 14412 Potsdam
