@@ -18,8 +18,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Contacts:
 Susanne Rolinski and Benjamin Leon Bodirsky.
-Potsdam Institute for Climate Impact Research
-P.O. Box 60 12 03
+Potsdam Institute for Climate Impact Research  
+P.O. Box 60 12 03 
 14412 Potsdam
 Germany
 rolinski@pik-potsdam.de
