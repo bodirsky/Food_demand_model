@@ -1,0 +1,10 @@
+Package: CalorieDemand
+Type: Package
+Title: Calorie demand projections
+Version: 1.2
+Date: 2014-03-09
+Author: Susanne Rolinski and Benjamin L. Bodirsky
+Maintainer: Susanne Rolinski <Susanne.Rolinski@pik-potsdam.de>
+Description: Creating demand scenarios for total and animal-cased calories per country based on FAO data for calory demand and World Bank data on income according to the underlying storylines of the respective projections.
+License: GNU Lesser General Public License V3
+Packaged: 2014-12-01 16:13:55 UTC; bodirsky
